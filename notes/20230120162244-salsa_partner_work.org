@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ee19820b-ed26-4536-a8b1-b58ee87461da
+:END:
+#+title: Salsa Partner Work
+
+- [[id:66b64f20-bded-4b84-b7d3-f5e8c9f97dfe][Salsa Open Position]]
+- [[id:8a33af1f-b432-4bde-9a82-e887000ff487][Salsa Close Position]]
+- [[id:b89b0d70-a62b-42f0-9893-c5ee2ebc69ea][Salsa Cross Body Lead]]
+- [[id:453a1308-f376-4514-9668-776ef2613150][Salsa Reverse Cross Body Lead]]
+- [[id:7fe20882-d0fc-40fb-b5f9-78e47b0df35e][Salsa Right Turn]]
+- [[id:096e35d0-72a4-4579-b27f-3ee58f8b6c29][Salsa Right Turn (Right Hand)]]
+- [[id:ccba3c34-0ca3-4e50-82c7-f9037057b842][Salsa Left Turn]]
+- [[id:9c66035d-586f-478a-a7c2-315abe033f7f][Salsa Inside Turn]]
+- [[id:80858993-3312-4771-adb7-bffb2f407340][Salsa Outside Turn]]
+- [[id:873ac889-5101-45f0-8ab2-489b7ed6d1f3][Salsa Copa]]
+- [[id:8aef2af2-ebde-44ab-8701-966f675fe56b][Salsa Right Turn Hammer Lock]]
+- [[id:1fe5034c-6e26-429b-a656-904f759f9c2e][Salsa Left Turn Hammer Lock]]
+- [[id:c341c821-2b49-4cdb-a9f9-4c94219caf5e][Salsa Sweetheart]]
+- [[id:ab75a44b-30d1-4f6e-8d5d-ade6588f18bd][Salsa Natural Spin]]
+- [[id:3a886760-1367-464e-9985-937b96f7f586][Salsa Under The Bridge]]
+- [[id:d42523a6-4445-4db2-a5c3-46f54edf0232][Salsa Leader Right Turn]]
+- [[id:b99ba46a-bf88-4542-aa73-4842fca81b67][Salsa Left Hand Break]]
+- [[id:c354a8de-7736-486d-a638-39276dd75d6f][Salsa Hair Combo]]
+- [[id:a3e6b01a-f1b1-412a-ba84-398616cfa176][Salsa Leader Hair Combo]]
+- [[id:5470ee48-6a9d-440a-a1f9-70722cdc1fda][Salsa Open Spin]]

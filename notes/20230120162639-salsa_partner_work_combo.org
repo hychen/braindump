@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6d290db7-1573-434f-88a7-67bccb1b0576
+:END:
+#+title: Salsa Partner Work Combo
+
+- [[id:324b6250-5004-41c8-b162-cde9145416fc][Open Break Combo]]
+- [[id:873ac889-5101-45f0-8ab2-489b7ed6d1f3][Copa]] + [[id:9c66035d-586f-478a-a7c2-315abe033f7f][Inside Turn]]
+- [[id:b89b0d70-a62b-42f0-9893-c5ee2ebc69ea][Cross Body Lead]] + [[id:873ac889-5101-45f0-8ab2-489b7ed6d1f3][Copa]]
+- [[id:64ef8eda-c733-4082-a59b-2080f2cbaff3][Inside Turn Combo]]
+- [[id:5c7c14e3-e164-4a3f-aba2-4b526306da94][Right Turn Hammer Lock Combo]]
+- [[id:6eeefb18-4d42-41ab-aed5-1b3bd62f9c7c][Left Turn Hammer Lock Combo]]
+- [[id:4322bb24-c4b8-4003-aa08-aac821dad885][Natural Spin Combo]]
+- [[id:12172cf2-ff79-44f8-ba02-77bdbf854ba0][Close Position Combo]]

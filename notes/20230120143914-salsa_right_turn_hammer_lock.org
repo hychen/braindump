@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8aef2af2-ebde-44ab-8701-966f675fe56b
+:END:
+#+title: Salsa Right Turn Hammer Lock
+
+Leader 7 抬左手, 2 推, 3 follower 轉完, 5 leader 走到 follower 身側, 可以接 [[id:a937000c-0ec0-4292-b876-c5f5d762fee9][Salsa Open Break]], 做方向性變化的動作。

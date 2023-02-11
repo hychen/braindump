@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4322bb24-c4b8-4003-aa08-aac821dad885
+:END:
+#+title: Salsa Natural Spin Combo
+
+- [[id:ab75a44b-30d1-4f6e-8d5d-ade6588f18bd][Natural Spin]] + Inside Turn
+- [[id:ab75a44b-30d1-4f6e-8d5d-ade6588f18bd][Natural Spin]] + 6 推 7 拉 + Inside Turn
+- [[id:ab75a44b-30d1-4f6e-8d5d-ade6588f18bd][Natural Spin]] + 6 推 7 拉 + Inside Turn + Leader Right Turn + Right Turn + (fake outside) Inside Turn

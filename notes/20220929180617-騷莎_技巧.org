@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fe69a0f7-012b-40da-a8cd-1f31d56268e2
+:END:
+#+title: 騷莎 技巧
+
+技巧分為三大類，分別是 spinning (轉圈), body isolation (身體部位孤立), body movement (身體重心切換)。
+
+- [[id:c35995c0-5d1a-4e57-a608-5bc73605980c][Salsa Basic Steps]]
+- [[id:3fa8b8bb-0687-42c4-9398-139c7ef4d407][Salsa Leading]]
+- [[id:5fffbfb5-407c-422a-98a9-963605ba0b4d][Salsa Shine]]
+- [[id:ee19820b-ed26-4536-a8b1-b58ee87461da][Salsa Partner Work]]
+- [[id:6d290db7-1573-434f-88a7-67bccb1b0576][Salsa Partner Work Combo]]

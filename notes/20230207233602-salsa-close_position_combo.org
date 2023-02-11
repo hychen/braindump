@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       12172cf2-ff79-44f8-ba02-77bdbf854ba0
+:END:
+#+title: Salsa Close Position Combo
+
+- [[id:8a33af1f-b432-4bde-9a82-e887000ff487][Close Position]] + Inside Turn + Right Hammer Lock + Open Break + 1/4 風車 (移動位置) + Left Hammer Lock + 右手帶 Right Turn
+- [[id:8a33af1f-b432-4bde-9a82-e887000ff487][Close Position]] + Inside Turn + Right Hammer Lock + Open Break + 1/4 風車 (移動位置) + Left Hammer Lock + 右手帶 Right Turn + Cross Body Lead

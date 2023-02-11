@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5fffbfb5-407c-422a-98a9-963605ba0b4d
+:END:
+#+title: Salsa Shine
+
+Shine 用在 5,6,7, 男女皆然。
+
+- Son
+- Granpa
+- Pachanga
+- [[id:94e895c7-956d-49f6-b626-9c8391e61fbc][Salsa Suzi Q]]
+- [[id:4118e569-ed92-4137-8049-5ff09e35e716][Salsa Shimmy]]
+- [[id:d826b349-ecff-4562-823f-081721bdd2b2][Salsa Flare]]
+- [[id:d31a4ffe-e248-46cc-b7af-75eee0a9b1e9][Salsa Mambo]]
+- [[id:1a18ee1f-8d78-40bc-b2cd-fd7efc8340ba][Salsa Five Point Beat]]

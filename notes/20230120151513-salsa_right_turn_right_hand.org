@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       096e35d0-72a4-4579-b27f-3ee58f8b6c29
+:END:
+#+title: Salsa Right Turn (Right Hand)
+
+右手抓 follower 右手，引導對方做右轉，可以接在 [[id:ab75a44b-30d1-4f6e-8d5d-ade6588f18bd][Salsa Natural Spin]] 後面。

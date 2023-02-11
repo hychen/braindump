@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6eeefb18-4d42-41ab-aed5-1b3bd62f9c7c
+:END:
+#+title: Salsa Left Turn Hammer Lock Combo
+
+- Left turn hammer lock + Under the bridge
+- Left turn hammer lock + Under the bridge + Outside Turn
+- Left turn hammer lock + Under the bridge + Outside Turn + 右手梳頭 (5,6,7) + 左手梳頭 (1,2,3), basic (5,6,7)

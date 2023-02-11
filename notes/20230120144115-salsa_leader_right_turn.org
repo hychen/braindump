@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d42523a6-4445-4db2-a5c3-46f54edf0232
+:END:
+#+title: Salsa Leader Right Turn
+
+Leader Right Turn 是位在 567 的招式，可以接在 [[id:9c66035d-586f-478a-a7c2-315abe033f7f][Salsa Inside Turn]] 跟 Salsa Right Trun (Right Hand)
+後面。

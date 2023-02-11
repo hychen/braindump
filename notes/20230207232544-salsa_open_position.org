@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       66b64f20-bded-4b84-b7d3-f5e8c9f97dfe
+:END:
+#+title: Salsa Open Position
+
+Leader 跟 Follower 維持 [[id:6b3131e2-0922-4fea-860d-c155f0afcbdf][Salsa Frame]]。Leader 手掌向上，Follower 手搭在 Leader 手掌，左手搭左手，右手搭右手。

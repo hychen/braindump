@@ -1,0 +1,11 @@
+baseURL = "https://braindump.hychen.me/"
+languageCode = "zh-Hant"
+title = "不可觀筆記快照"
+theme = "cortex-dark"
+pygmentsStyle = "dracula"
+
+[params]
+email = "ossug.hychen@gmail.com"
+footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
+entrypoint = "/about"
+repo = "https://github.com/hychen/braindump"

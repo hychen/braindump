@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       324b6250-5004-41c8-b162-cde9145416fc
+:END:
+#+title: Salsa Open Break Combo
+
+- [[id:a937000c-0ec0-4292-b876-c5f5d762fee9][Open Break]] 後 Leader 右手抬高到 Follower 額頭位置，手心往前伸出接 Follower 右手帶出 [[id:80858993-3312-4771-adb7-bffb2f407340][Outside Turn]]
+- [[id:a937000c-0ec0-4292-b876-c5f5d762fee9][Open Break]] 後 Leader 右手手心向上在下伸出接 Follower 右手帶出 [[id:80858993-3312-4771-adb7-bffb2f407340][Outside Turn]] 後變成 Right Turn Hammer Lock ，在 7 拍時  Leader 左手抬高，鑽過左手與 Follower 下方的洞後，左手變成 pizza hand，然後 1 順勢往下做風車的動作，帶出 Inside Turn （Follower 要注意此時右手不能放掉，仍然保持在腰際的位置），Leader 在 3 時右手去抓住對方在留在腰際的右手，成為 [[id:8aef2af2-ebde-44ab-8701-966f675fe56b][Right Turn Hammer Lock]] 。
+
+  Leader 6 右手推, 7 拉，接下來 6 拍 Leader 往後，直到 7 才往前。1 時右手往上繞圈，左手放掉（或不放掉改做 1/4 風車）順勢帶出 [[id:80858993-3312-4771-adb7-bffb2f407340][Outside Turn]] ，5 右手往上繞過 Follower 頭部後，Leader 的右手抓住 Follower 指尖往前平舉, 用右手上臂內側夾著 Follower 的左臂，此時 Leader 跟 Follower 下半身會變成類似兩人三腳的姿勢，上半身類似 Leader 做出讓 Follower 挽著姿勢，只是改挽為夾，方便做引導。這時可接 [[id:5470ee48-6a9d-440a-a1f9-70722cdc1fda][Open Spin]] 將 Leader 跟 Follower 分開各自做 [[id:5fffbfb5-407c-422a-98a9-963605ba0b4d][Shine]] 八拍後回復成 [[id:66b64f20-bded-4b84-b7d3-f5e8c9f97dfe][Open Position]] 。
