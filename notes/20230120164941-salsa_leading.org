@@ -3,7 +3,9 @@
 :END:
 #+title: Salsa Leading
 
-Lead 責任, 是做邀請, 建議。
+[cite:@hong馬丁的新手Salsa雙人學習指南FlowTaipei2022] 定義 Lead 責任, 是做邀請, 建議。
+
+該文提及重點如下：
 
 初學的時期不用特別追求學很多招，而是要先學會 Cross Body Lead, Inside Turn, Outside Turn, Right turn, Left Turn, Copa, Lasso 的這類基本的雙人動作，這類動作乘上不同手 Leading 的四種組合，再乘上5 6 7 (8) 的 Styling 動作就可以組合出20種以上的雙人動作組合了。所以初學的 Leader 可以先專注在下列幾個學習重點
 
@@ -15,4 +17,5 @@ Lead 責任, 是做邀請, 建議。
 - 在可以做到上述三點的情況下，嘗試練習用不同手去做相同動作的 leading
 - 切忌用蠻力做 Leading，但也不能完全不給力氣。
 
-[cite:@hong馬丁的新手Salsa雙人學習指南FlowTaipei2022]
+* 常見問題
+- [[id:b89f54be-dbc5-4fa0-9bff-dad84b284e12][如何用文字紀錄 Salsa 舞序？]]
