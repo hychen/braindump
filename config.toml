@@ -1,4 +1,4 @@
-baseURL = "https://braindump.hychen.me/"
+baseURL = "https://notes.hychen.me/"
 languageCode = "zh-Hant"
 title = "不可觀筆記快照"
 theme = "cortex-dark"
